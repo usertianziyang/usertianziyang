@@ -1,0 +1,57 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Leo Tech Radar</title>
+  <desc id="desc">A cyber style dashboard showing Leo's AI coding, BI, RPA, frontend and automation stack.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="960" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="92" y1="42" x2="868" y2="318" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.13 0 0 0 0 0.83 0 0 0 0 0.93 0 0 0 0.6 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect width="960" height="360" rx="26" fill="url(#bg)"/>
+  <rect x="18" y="18" width="924" height="324" rx="22" stroke="url(#neon)" stroke-width="2" opacity="0.72"/>
+  <path d="M80 282C166 190 252 255 336 152C421 49 522 130 608 92C704 50 764 122 880 70" stroke="url(#neon)" stroke-width="2" opacity="0.35"/>
+  <path d="M72 74H236M724 286H888M78 286H198M692 74H878" stroke="#22D3EE" stroke-width="1.4" opacity="0.38"/>
+  <circle cx="480" cy="180" r="92" stroke="#22D3EE" stroke-width="1.2" opacity="0.28"/>
+  <circle cx="480" cy="180" r="62" stroke="#7C3AED" stroke-width="1.2" opacity="0.38"/>
+  <circle cx="480" cy="180" r="32" fill="#020617" stroke="#22D3EE" stroke-width="2" filter="url(#glow)"/>
+  <text x="480" y="172" text-anchor="middle" fill="#FFFFFF" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Leo</text>
+  <text x="480" y="201" text-anchor="middle" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">AI WORKFLOW BUILDER</text>
+  <g font-family="Inter, Arial, sans-serif" font-weight="700">
+    <rect x="72" y="94" width="214" height="72" rx="16" fill="#0B1120" stroke="#22D3EE" opacity="0.95"/>
+    <text x="96" y="126" fill="#E0F2FE" font-size="20">Vibecoding</text>
+    <text x="96" y="150" fill="#67E8F9" font-size="13">Prompt → Code → Iterate</text>
+    <rect x="674" y="94" width="214" height="72" rx="16" fill="#0B1120" stroke="#7C3AED" opacity="0.95"/>
+    <text x="698" y="126" fill="#F5F3FF" font-size="20">Codex / Claude Code</text>
+    <text x="698" y="150" fill="#C4B5FD" font-size="13">Agentic development loop</text>
+    <rect x="72" y="206" width="214" height="72" rx="16" fill="#0B1120" stroke="#06B6D4" opacity="0.95"/>
+    <text x="96" y="238" fill="#E0F2FE" font-size="20">观远 BI</text>
+    <text x="96" y="262" fill="#67E8F9" font-size="13">Data insight &amp; dashboard</text>
+    <rect x="674" y="206" width="214" height="72" rx="16" fill="#0B1120" stroke="#22D3EE" opacity="0.95"/>
+    <text x="698" y="238" fill="#E0F2FE" font-size="20">影刀 RPA</text>
+    <text x="698" y="262" fill="#67E8F9" font-size="13">Automation &amp; execution</text>
+  </g>
+  <g stroke="#22D3EE" stroke-width="1.4" opacity="0.62">
+    <path d="M286 130H392"/>
+    <path d="M568 130H674"/>
+    <path d="M286 242H392"/>
+    <path d="M568 242H674"/>
+  </g>
+  <g fill="#22D3EE" opacity="0.75">
+    <circle cx="392" cy="130" r="4"/>
+    <circle cx="568" cy="130" r="4"/>
+    <circle cx="392" cy="242" r="4"/>
+    <circle cx="568" cy="242" r="4"/>
+  </g>
+  <text x="480" y="322" text-anchor="middle" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">AI coding · BI analytics · RPA automation · futuristic frontend</text>
+</svg>

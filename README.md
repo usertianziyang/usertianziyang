@@ -1,50 +1,76 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Leo&fontAlign=50&fontAlignY=36&fontColor=FFFFFF&fontSize=56&desc=%E8%AE%A9%E4%BB%A3%E7%A0%81%E5%92%8C%E8%AE%A1%E5%88%92%E4%B8%80%E6%A0%B7%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn" alt="Leo 主页头图" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,28:0F172A,68:1D4ED8,100:22D3EE&text=Leo&fontAlign=50&fontAlignY=34&fontColor=FFFFFF&fontSize=62&desc=Vibecoding%20%7C%20AI%20Workflow%20%7C%20BI%20%26%20RPA&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="Leo GitHub profile header" />
 
   <a href="https://github.com/usertianziyang">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=%E6%88%91%E6%98%AF+Leo%E3%80%82;%E4%B8%BB%E5%8A%9B%E6%96%B9%E5%90%91%EF%BC%9AVibecoding%20%E3%80%81AI+%E7%BC%96%E7%A8%8B%E3%80%81%E5%B7%A5%E7%A8%8B%E6%95%88%E7%8E%87%E3%80%82;%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%EF%BC%9ACodex%20%E3%80%81Claude+Code%20%E3%80%81%E8%A7%82%E8%BF%9EBI%20%E3%80%81%E5%BD%B1%E5%88%80RPA%E3%80%82" alt="动态打字介绍" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=2400&pause=760&color=22D3EE&center=true&vCenter=true&width=820&lines=%E6%88%91%E6%98%AF+Leo%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%94%A8+AI+%E6%94%B9%E9%80%A0%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%9A%84%E5%AE%9E%E8%B7%B5%E8%80%85%E3%80%82;Vibecoding+%E3%80%81Codex+%E3%80%81Claude+Code+%E6%98%AF%E6%88%91%E7%9A%84%E5%BC%80%E5%8F%91%E5%8A%A0%E9%80%9F%E5%99%A8%E3%80%82;%E8%A7%82%E8%BF%9EBI+%E3%80%81%E5%BD%B1%E5%88%80RPA+%E3%80%81%E5%89%8D%E7%AB%AF%E9%A1%B5%E9%9D%A2%E6%98%AF%E6%88%91%E7%9A%84%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E3%80%82" alt="动态打字介绍" />
   </a>
 
   <br />
   <br />
 
-  <img src="https://img.shields.io/github/actions/workflow/status/usertianziyang/usertianziyang/snake.yml?branch=main&style=for-the-badge&label=%E5%8A%A8%E6%80%81%E5%8A%A8%E7%94%BB&logo=githubactions&logoColor=white&labelColor=020617&color=22D3EE" alt="工作流状态" />
-  <img src="https://komarev.com/ghpvc/?username=usertianziyang&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F&color=7C3AED&labelColor=020617&style=for-the-badge" alt="主页访问量" />
+  <img src="https://img.shields.io/github/actions/workflow/status/usertianziyang/usertianziyang/snake.yml?branch=main&style=for-the-badge&label=%E5%8A%A8%E6%80%81%E8%B4%A1%E7%8C%AE&logo=githubactions&logoColor=white&labelColor=020617&color=22D3EE" alt="贡献动画工作流状态" />
+  <img src="https://komarev.com/ghpvc/?username=usertianziyang&label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE&color=7C3AED&labelColor=020617&style=for-the-badge" alt="主页访问量" />
   <img src="https://img.shields.io/github/followers/usertianziyang?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=for-the-badge&color=06B6D4&labelColor=020617" alt="关注者数量" />
 
 </div>
 
 ---
 
-## 关于我
+<div align="center">
+
+  <img src="./assets/leo-tech-radar.svg" alt="Leo 的科技工作台" />
+
+</div>
+
+## 我的定位
+
+> 让想法快速成型，让流程自动运转，让页面带一点未来感。
 
 ```ts
 const leo = {
-  name: "Leo",
-  identity: "全栈开发者、Vibecoding 实践者、AI 应用探索者",
-  focus: ["Vibecoding", "Codex", "Claude Code", "观远 BI", "影刀 RPA"],
-  stack: ["TypeScript", "Python", "JavaScript", "SQL", "React", "Vue", "Next.js"],
-  style: "科技风、极简、快节奏、重体验",
+  role: "Vibecoding 实践者 / AI 工作流搭建者 / 全栈开发者",
+  tools: ["Codex", "Claude Code", "观远 BI", "影刀 RPA"],
+  languages: ["TypeScript", "JavaScript", "Python", "SQL"],
+  frontend: ["React", "Vue", "Next.js", "科技风页面", "数据可视化"],
+  direction: "把 AI 编程、BI 分析、RPA 自动化和前端展示串成完整闭环",
 };
 ```
 
-我更喜欢把复杂问题拆成清晰流程，再用代码和自动化把它做顺。  
-前端我看重第一眼的质感，后端我看重边界和稳定性，工具流我看重效率和可复用。
+我比较擅长把一个模糊需求拆成可执行的流程：先用 AI 工具加速设计和编码，再用 BI 看清数据，用 RPA 处理重复动作，最后通过前端页面把结果展示出来。  
+对我来说，代码不是孤立的文件，而是连接业务、数据、自动化和体验的工作流。
+
+## 能力矩阵
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">主战场</h3>
-      <p align="center">Vibecoding / AI 编程 / 自动化落地</p>
+    <td width="50%">
+      <h3>AI 编程与 Vibecoding</h3>
+      <p>使用 Codex、Claude Code 等工具进行需求拆解、代码生成、调试修复和快速原型搭建。</p>
     </td>
-    <td width="33%">
-      <h3 align="center">常用工具</h3>
-      <p align="center">Codex / Claude Code / 影刀 RPA / 观远 BI</p>
+    <td width="50%">
+      <h3>编程语言与工程实现</h3>
+      <p>常用 TypeScript、JavaScript、Python、SQL，关注结构清晰、可维护和可持续迭代。</p>
     </td>
-    <td width="33%">
-      <h3 align="center">视觉取向</h3>
-      <p align="center">科技感 / 深色霓虹 / 高对比 / 轻玻璃质感</p>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>观远 BI 与数据分析</h3>
+      <p>围绕指标、看板、数据集和业务分析场景，把数据转成可理解、可追踪的决策信息。</p>
+    </td>
+    <td width="50%">
+      <h3>影刀 RPA 与自动化流程</h3>
+      <p>把高频、重复、规则明确的操作流程自动化，减少机械劳动，提升执行稳定性。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>前端页面与视觉表达</h3>
+      <p>偏好深色科技风、霓虹高对比、数据看板、玻璃拟态和有节奏的动效表达。</p>
+    </td>
+    <td width="50%">
+      <h3>工具链与效率系统</h3>
+      <p>喜欢把脚手架、自动化脚本、AI Agent 和低代码工具组合成可复用的生产力系统。</p>
     </td>
   </tr>
 </table>
@@ -62,9 +88,28 @@ const leo = {
   <br />
   <br />
 
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,python,fastapi,mysql,postgres,redis,docker,git,github,linux,figma,vscode&perline=8" alt="技术栈图标" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,vue,nextjs,nodejs,fastapi,mysql,postgres,redis,docker,git,github,linux,figma,vscode&perline=9" alt="技术栈图标" />
 
 </div>
+
+## 展示内容建议
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">科技风封面图</h3>
+      <p align="center">用于呈现个人定位和工具栈，适合放在主页第一屏。</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">项目截图</h3>
+      <p align="center">展示前端页面、BI 看板、RPA 流程结果，比纯文字更有说服力。</p>
+    </td>
+    <td width="33%">
+      <h3 align="center">流程架构图</h3>
+      <p align="center">把 AI 编程、数据分析、自动化执行和页面展示串成一张图。</p>
+    </td>
+  </tr>
+</table>
 
 ## 3D 贡献卡
 
@@ -110,31 +155,6 @@ const leo = {
 </div>
 
 > 3D 贡献卡由 `.github/workflows/profile-3d.yml` 自动生成，蛇形动画由 `.github/workflows/snake.yml` 自动生成。
-
-## 正在构建
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>AI 编程工作流</h3>
-      <p>把 Vibecoding、Codex 和 Claude Code 连接起来，做出更快的开发路径。</p>
-    </td>
-    <td width="50%">
-      <h3>BI 与自动化</h3>
-      <p>围绕观远 BI 和影刀 RPA，把数据展示、流程执行和自动化串起来。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>科技风前端</h3>
-      <p>偏爱深色、霓虹、高对比和克制的动效，让页面一眼有记忆点。</p>
-    </td>
-    <td width="50%">
-      <h3>工程效率</h3>
-      <p>持续沉淀脚手架、组件和自动化流程，减少重复工作。</p>
-    </td>
-  </tr>
-</table>
 
 ## 快速入口
 
