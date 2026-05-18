@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Tianziyang%20Yang%20%7C%20Leo&fontAlign=50&fontAlignY=36&fontColor=FFFFFF&fontSize=46&desc=%E8%AE%A9%E4%BB%A3%E7%A0%81%E5%92%8C%E8%AE%A1%E5%88%92%E4%B8%80%E6%A0%B7%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn" alt="Tianziyang Yang | Leo 主页头图" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=Leo&fontAlign=50&fontAlignY=36&fontColor=FFFFFF&fontSize=56&desc=%E8%AE%A9%E4%BB%A3%E7%A0%81%E5%92%8C%E8%AE%A1%E5%88%92%E4%B8%80%E6%A0%B7%E9%AB%98%E6%95%88%E8%BF%90%E8%BD%AC&descAlign=50&descAlignY=60&descSize=18&animation=fadeIn" alt="Leo 主页头图" />
 
   <a href="https://github.com/usertianziyang">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=%E6%88%91%E6%98%AF+Tianziyang+Yang%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%8F%AB+Leo%E3%80%82;%E4%B8%BB%E5%8A%9B%E6%96%B9%E5%90%91%EF%BC%9AVibecoding%20%E3%80%81AI+%E7%BC%96%E7%A8%8B%E3%80%81%E5%B7%A5%E7%A8%8B%E6%95%88%E7%8E%87%E3%80%82;%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%EF%BC%9ACodex%20%E3%80%81Claude+Code%20%E3%80%81%E8%A7%82%E8%BF%9EBI%20%E3%80%81%E5%BD%B1%E5%88%80RPA%E3%80%82" alt="动态打字介绍" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=780&lines=%E6%88%91%E6%98%AF+Leo%E3%80%82;%E4%B8%BB%E5%8A%9B%E6%96%B9%E5%90%91%EF%BC%9AVibecoding%20%E3%80%81AI+%E7%BC%96%E7%A8%8B%E3%80%81%E5%B7%A5%E7%A8%8B%E6%95%88%E7%8E%87%E3%80%82;%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%EF%BC%9ACodex%20%E3%80%81Claude+Code%20%E3%80%81%E8%A7%82%E8%BF%9EBI%20%E3%80%81%E5%BD%B1%E5%88%80RPA%E3%80%82" alt="动态打字介绍" />
   </a>
 
   <br />
@@ -21,7 +21,7 @@
 
 ```ts
 const leo = {
-  name: "Tianziyang Yang / Leo",
+  name: "Leo",
   identity: "全栈开发者、Vibecoding 实践者、AI 应用探索者",
   focus: ["Vibecoding", "Codex", "Claude Code", "观远 BI", "影刀 RPA"],
   stack: ["TypeScript", "Python", "JavaScript", "SQL", "React", "Vue", "Next.js"],
