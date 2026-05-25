@@ -8,17 +8,6 @@
 
 <br />
 
-```ts
-const leo = {
-  role: "AI Workflow Architect / Automation Expert",
-  tools: ["Antigravity", "Claude Code", "Trae", "Codex", "观远 BI", "影刀 RPA"],
-  languages: ["TypeScript", "Python", "SQL", "React", "Next.js"],
-  philosophy: "整合 AI 代理、智能 IDE 与自动化引擎，构建极致高效的数字化工作流",
-};
-```
-
-<br />
-
 ## ⚡ 核心能力 | Core Competence
 
 > **🤖 AI 智能代理与 Agentic 编程**
