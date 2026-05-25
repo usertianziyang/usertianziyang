@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,28:0F172A,68:1D4ED8,100:22D3EE&text=Leo&fontAlign=50&fontAlignY=34&fontColor=FFFFFF&fontSize=62&desc=Vibecoding%20%7C%20AI%20Workflow%20%7C%20BI%20%26%20RPA&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="Leo GitHub profile header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,28:0F172A,68:1D4ED8,100:22D3EE&text=Leo&fontAlign=50&fontAlignY=34&fontColor=FFFFFF&fontSize=62&desc=AI%20Agents%20%7C%20BI%20%26%20RPA%20%7C%20Workflows&descAlign=50&descAlignY=58&descSize=18&animation=fadeIn" alt="Leo GitHub profile header" />
 
   <a href="https://github.com/usertianziyang">
-    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=2400&pause=760&color=22D3EE&center=true&vCenter=true&width=820&lines=%E6%88%91%E6%98%AF+Leo%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%94%A8+AI+%E6%94%B9%E9%80%A0%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%9A%84%E5%AE%9E%E8%B7%B5%E8%80%85%E3%80%82;Vibecoding+%E3%80%81Codex+%E3%80%81Claude+Code+%E6%98%AF%E6%88%91%E7%9A%84%E5%BC%80%E5%8F%91%E5%8A%A0%E9%80%9F%E5%99%A8%E3%80%82;%E8%A7%82%E8%BF%9EBI+%E3%80%81%E5%BD%B1%E5%88%80RPA+%E3%80%81%E5%89%8D%E7%AB%AF%E9%A1%B5%E9%9D%A2%E6%98%AF%E6%88%91%E7%9A%84%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E3%80%82" alt="动态打字介绍" />
+    <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=22&duration=2400&pause=760&color=22D3EE&center=true&vCenter=true&width=820&lines=%E6%88%91%E6%98%AF+Leo%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%83%AD%E8%A1%B7%E4%BA%8E%E4%BB%A5+AI+%E6%9E%84%E5%BB%BA%E6%99%BA%E8%83%BD%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%9A%84%E5%AE%9E%E8%B7%B5%E8%80%85%E3%80%82;Antigravity+%E3%80%81Claude+Code+%E3%80%81Trae+%E3%80%81Codex+%E6%98%AF%E6%88%91%E7%9A%84+AI+%E7%BC%96%E7%A8%8B%E5%8A%A0%E9%80%9F%E5%99%A8%E3%80%82;%E8%A7%82%E8%BF%9CBI+%E3%80%81%E5%BD%B1%E5%88%80RPA+%E3%80%81%E5%85%A8%E6%A0%88%E5%89%8D%E7%AB%AF%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B0%E5%AD%97%E5%8C%96%E8%90%BD%E5%9C%B0%E5%9C%BA%E6%99%AF%E3%80%82" alt="动态打字介绍" />
   </a>
 
   <br />
@@ -23,95 +23,86 @@
 
 </div>
 
-## 我的定位
+## 🚀 关于我 | About Me
 
-> 让想法快速成型，让流程自动运转，让页面带一点未来感。
+> **"结合 AI 智能体与自动化流程，让重复工作归零，数据洞察落地。"**
 
 ```ts
 const leo = {
-  role: "Vibecoding 实践者 / AI 工作流搭建者 / 全栈开发者",
-  tools: ["Codex", "Claude Code", "观远 BI", "影刀 RPA"],
+  role: "AI 工作流构建者 / AI 编程实践者 / 数据与自动化专家",
+  tools: ["Antigravity", "Claude Code", "Trae", "Codex", "观远 BI", "影刀 RPA"],
   languages: ["TypeScript", "JavaScript", "Python", "SQL"],
   frontend: ["React", "Vue", "Next.js", "科技风页面", "数据可视化"],
-  direction: "把 AI 编程、BI 分析、RPA 自动化和前端展示串成完整闭环",
+  direction: "整合 AI 代理、智能 IDE、BI 数据分析与 RPA 自动化，构建极致高效的数字化工作流",
 };
 ```
 
-我比较擅长把一个模糊需求拆成可执行的流程：先用 AI 工具加速设计和编码，再用 BI 看清数据，用 RPA 处理重复动作，最后通过前端页面把结果展示出来。  
-对我来说，代码不是孤立的文件，而是连接业务、数据、自动化和体验的工作流。
+我擅长将模糊的需求转化为可自动运行的生产力闭环：使用 **Antigravity** & **Claude Code** 自主规划编排代码，**Trae** & **Codex** 进行高效开发与迭代，**观远 BI** 进行数据多维建模与呈现，**影刀 RPA** 自动化跨系统的繁琐日常，最后通过**全栈前端页面**将所有业务流具象化展示。
 
-## 能力矩阵
+---
+
+## ⚡ 能力矩阵 | Competence Matrix
 
 <table>
   <tr>
     <td width="50%">
-      <h3>AI 编程与 Vibecoding</h3>
-      <p>使用 Codex、Claude Code 等工具进行需求拆解、代码生成、调试修复和快速原型搭建。</p>
+      <h3>🤖 AI 智能代理与 Agentic 编程</h3>
+      <p>深度应用 <b>Antigravity</b> 与 <b>Claude Code</b>，构建自主规划、代码自动编写与全栈系统调试的闭环。</p>
     </td>
     <td width="50%">
-      <h3>编程语言与工程实现</h3>
-      <p>常用 TypeScript、JavaScript、Python、SQL，关注结构清晰、可维护和可持续迭代。</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>观远 BI 与数据分析</h3>
-      <p>围绕指标、看板、数据集和业务分析场景，把数据转成可理解、可追踪的决策信息。</p>
-    </td>
-    <td width="50%">
-      <h3>影刀 RPA 与自动化流程</h3>
-      <p>把高频、重复、规则明确的操作流程自动化，减少机械劳动，提升执行稳定性。</p>
+      <h3>🛠️ 智能 IDE 与开发加速</h3>
+      <p>利用 <b>Trae</b> 与 <b>Codex</b> 进行快速原型开发、智能代码预测与重构，极大缩短需求到上线的链路。</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>前端页面与视觉表达</h3>
-      <p>偏好深色科技风、霓虹高对比、数据看板、玻璃拟态和有节奏的动效表达。</p>
+      <h3>📊 观远 BI 与数据洞察</h3>
+      <p>聚焦企业数据看护，基于<b>观远 BI</b> 打造多维动态看板、商业指标建模，让隐性数据转化为显性决策依据。</p>
     </td>
     <td width="50%">
-      <h3>工具链与效率系统</h3>
-      <p>喜欢把脚手架、自动化脚本、AI Agent 和低代码工具组合成可复用的生产力系统。</p>
+      <h3>⚙️ 影刀 RPA 与流程自动化</h3>
+      <p>编写自动化机器人，打通跨平台数据壁垒，实现无干预的报表爬取、数据对账与高频重复动作流。</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎨 现代前端与视觉表达</h3>
+      <p>偏好霓虹高对比、科技深色风与数据可视化大屏，熟练运用 React、Vue、Next.js 实现流畅且高级的视觉交互。</p>
+    </td>
+    <td width="50%">
+      <h3>🪐 工具链与效率工程</h3>
+      <p>擅长将 CLI 工具、API 编排、自动化脚本与低代码系统打造成可扩展、高复用的个人级生产力基础设施。</p>
     </td>
   </tr>
 </table>
 
-## 技术与工具
+---
+
+## 🛠️ 我的数字化工作台 | Tool Stack
 
 <div align="center">
-
-  <img src="https://img.shields.io/badge/Vibecoding-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="Vibecoding" />
-  <img src="https://img.shields.io/badge/Codex-020617?style=for-the-badge&logo=openai&logoColor=7C3AED" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude%20Code-020617?style=for-the-badge&logo=anthropic&logoColor=F59E0B" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/%E8%A7%82%E8%BF%9EBI-020617?style=for-the-badge&logo=googleanalytics&logoColor=22D3EE" alt="观远 BI" />
-  <img src="https://img.shields.io/badge/%E5%BD%B1%E5%88%80RPA-020617?style=for-the-badge&logo=automationanywhere&logoColor=06B6D4" alt="影刀 RPA" />
-
-  <br />
-  <br />
-
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,vue,nextjs,nodejs,fastapi,mysql,postgres,redis,docker,git,github,linux,figma,vscode&perline=9" alt="技术栈图标" />
-
+  <img src="./assets/leo-tools-grid.svg" alt="Leo's Tools Grid" width="920" />
 </div>
 
-## 展示内容建议
+## 💻 技术语言与专业栈 | Tech Stack
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">科技风封面图</h3>
-      <p align="center">用于呈现个人定位和工具栈，适合放在主页第一屏。</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">项目截图</h3>
-      <p align="center">展示前端页面、BI 看板、RPA 流程结果，比纯文字更有说服力。</p>
-    </td>
-    <td width="33%">
-      <h3 align="center">流程架构图</h3>
-      <p align="center">把 AI 编程、数据分析、自动化执行和页面展示串成一张图。</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,react,vue,nextjs,nodejs,mysql,postgres,redis,docker,git,github,linux,figma,vscode&perline=9" alt="Leo's Tech Stack" />
+</div>
 
-## 3D 贡献卡
+---
+
+## 📁 项目经验 | Project Showcase
+
+> **极致工作流的落地实践。项目成果正在整理与脱敏中...**
+
+<div align="center">
+  <img src="./assets/projects-coming-soon.svg" alt="Project Archive Placeholder" width="920" />
+</div>
+
+---
+
+## 📊 3D 贡献卡 | 3D Contribution Card
 
 <div align="center">
 
@@ -119,7 +110,7 @@ const leo = {
 
 </div>
 
-## 数据面板
+## 📈 数据面板 | GitHub Stats
 
 <div align="center">
 
@@ -138,7 +129,7 @@ const leo = {
 
 </div>
 
-## 贡献轨迹
+## 🕸️ 贡献轨迹 | Contribution Graph
 
 <div align="center">
 
@@ -154,9 +145,9 @@ const leo = {
 
 </div>
 
-> 3D 贡献卡由 `.github/workflows/profile-3d.yml` 自动生成，蛇形动画由 `.github/workflows/snake.yml` 自动生成。
+> 💡 *3D 贡献卡由 `.github/workflows/profile-3d.yml` 自动生成，蛇形动画由 `.github/workflows/snake.yml` 自动生成。*
 
-## 快速入口
+## 🔗 快速入口 | Navigation
 
 <div align="center">
 

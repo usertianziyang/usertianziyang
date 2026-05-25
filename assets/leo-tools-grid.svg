@@ -1,0 +1,326 @@
+<svg width="960" height="420" viewBox="0 0 960 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="tools-title tools-desc">
+  <title id="tools-title">Leo's AI &amp; Automation Suite</title>
+  <desc id="tools-desc">A premium cyber-tech dashboard showcasing Leo's workspace tools: Antigravity, Claude Code, Trae, Codex, Guandata BI, and ShadowBot RPA.</desc>
+  
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="panel-bg" x1="0" y1="0" x2="960" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0B0F19"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    
+    <!-- Neon Border Gradient -->
+    <linearGradient id="border-neon" x1="0" y1="0" x2="960" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.8"/>
+      <stop offset="0.3" stop-color="#818CF8" stop-opacity="0.3"/>
+      <stop offset="0.7" stop-color="#7C3AED" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0.8"/>
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="dot-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.8" fill="#334155" opacity="0.4"/>
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow-light" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+    <filter id="neon-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.14 0 0 0 0 0.83 0 0 0 0 0.93 0 0 0 0.5 0"/>
+      <feBlend in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Tool Gradients -->
+    <linearGradient id="grad-antigravity" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    
+    <linearGradient id="grad-claude" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D97757"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+
+    <linearGradient id="grad-trae" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+
+    <linearGradient id="grad-codex" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="100%" stop-color="#4FACFE"/>
+    </linearGradient>
+
+    <linearGradient id="grad-bi" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+
+    <linearGradient id="grad-rpa" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Panel Background -->
+  <rect width="960" height="420" rx="20" fill="url(#panel-bg)"/>
+  <!-- Dot Grid Pattern Overlay -->
+  <rect width="960" height="420" rx="20" fill="url(#dot-grid)"/>
+  
+  <!-- Sleek Border -->
+  <rect x="1.5" y="1.5" width="957" height="417" rx="18.5" stroke="url(#border-neon)" stroke-width="2"/>
+
+  <!-- ================= CARD 1: ANTIGRAVITY (x=24, y=24) ================= -->
+  <g transform="translate(24, 24)">
+    <!-- Card Base -->
+    <rect width="288" height="176" rx="16" fill="#0A0F1E" fill-opacity="0.85" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="286.5" height="174.5" rx="15.25" stroke="#6366F1" stroke-width="1.5" opacity="0.15"/>
+    <!-- Glow Header accent -->
+    <path d="M12 0 H48" stroke="#6366F1" stroke-width="3" stroke-linecap="round" opacity="0.8" filter="url(#glow-light)"/>
+    
+    <!-- Icon Container -->
+    <circle cx="36" cy="38" r="20" fill="#0F172A" stroke="#6366F1" stroke-width="1.5" opacity="0.8"/>
+    <!-- Antigravity Custom Logo (Gravity defying split shapes + orbit) -->
+    <g transform="translate(20, 22)">
+      <!-- Left leg -->
+      <path d="M 10 23 L 14 7 L 17 7 L 13 23 Z" fill="url(#grad-antigravity)"/>
+      <!-- Right leg -->
+      <path d="M 22 23 L 18 7 L 15 7 L 19 23 Z" fill="url(#grad-antigravity)"/>
+      <!-- Floating ring -->
+      <ellipse cx="16" cy="15" rx="10" ry="3.5" transform="rotate(-15 16 15)" fill="none" stroke="#22D3EE" stroke-width="1.8" filter="url(#glow-light)"/>
+    </g>
+
+    <!-- Texts -->
+    <text x="68" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">Antigravity</text>
+    <text x="68" y="49" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#6366F1">DEEPMIND AI AGENT</text>
+    
+    <!-- Description -->
+    <text x="16" y="86" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#94A3B8" font-weight="500">
+      <tspan x="16" dy="0">Google DeepMind 智能开发体</tspan>
+      <tspan x="16" dy="19">擅长复杂系统重构与自主代码编排</tspan>
+    </text>
+
+    <!-- Badge -->
+    <rect x="16" y="136" width="76" height="22" rx="11" fill="#6366F1" fill-opacity="0.1" stroke="#6366F1" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="54" y="151" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#818CF8" text-anchor="middle">AI Agent</text>
+  </g>
+
+  <!-- ================= CARD 2: CLAUDE CODE (x=336, y=24) ================= -->
+  <g transform="translate(336, 24)">
+    <!-- Card Base -->
+    <rect width="288" height="176" rx="16" fill="#0A0F1E" fill-opacity="0.85" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="286.5" height="174.5" rx="15.25" stroke="#D97757" stroke-width="1.5" opacity="0.15"/>
+    <!-- Glow Header accent -->
+    <path d="M12 0 H48" stroke="#D97757" stroke-width="3" stroke-linecap="round" opacity="0.8" filter="url(#glow-light)"/>
+    
+    <!-- Icon Container -->
+    <circle cx="36" cy="38" r="20" fill="#0F172A" stroke="#D97757" stroke-width="1.5" opacity="0.8"/>
+    <!-- Claude Custom Logo (Clawd 8-bit or Anthropic organic crest) -->
+    <g transform="translate(20, 22)">
+      <!-- 8-bit Crab/Clawd mascot sprite -->
+      <path d="M 6 18 H 10 V 22 H 6 Z" fill="#D97757"/>
+      <path d="M 22 18 H 26 V 22 H 22 Z" fill="#D97757"/>
+      <path d="M 8 12 H 24 V 18 H 8 Z" fill="#D97757"/>
+      <!-- Eyes -->
+      <rect x="10" y="14" width="2" height="2" fill="#FFFFFF"/>
+      <rect x="20" y="14" width="2" height="2" fill="#FFFFFF"/>
+      <!-- Eye pupils -->
+      <rect x="10" y="14" width="1" height="1" fill="#020617"/>
+      <rect x="20" y="14" width="1" height="1" fill="#020617"/>
+      <!-- Top antennas -->
+      <path d="M 10 8 H 12 V 12 H 10 Z" fill="#D97757"/>
+      <path d="M 20 8 H 22 V 12 H 20 Z" fill="#D97757"/>
+      <!-- Claws -->
+      <path d="M 4 8 H 8 V 12 H 4 Z" fill="#F59E0B"/>
+      <path d="M 24 8 H 28 V 12 H 24 Z" fill="#F59E0B"/>
+    </g>
+
+    <!-- Texts -->
+    <text x="68" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">Claude Code</text>
+    <text x="68" y="49" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#D97757">ANTHROPIC CLI AGENT</text>
+    
+    <!-- Description -->
+    <text x="16" y="86" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#94A3B8" font-weight="500">
+      <tspan x="16" dy="0">Anthropic 终端开发代理</tspan>
+      <tspan x="16" dy="19">极速交互本地代码库，支持高效调试</tspan>
+    </text>
+
+    <!-- Badge -->
+    <rect x="16" y="136" width="76" height="22" rx="11" fill="#D97757" fill-opacity="0.1" stroke="#D97757" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="54" y="151" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#F08D66" text-anchor="middle">CLI Agent</text>
+  </g>
+
+  <!-- ================= CARD 3: TRAE (x=648, y=24) ================= -->
+  <g transform="translate(648, 24)">
+    <!-- Card Base -->
+    <rect width="288" height="176" rx="16" fill="#0A0F1E" fill-opacity="0.85" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="286.5" height="174.5" rx="15.25" stroke="#10B981" stroke-width="1.5" opacity="0.15"/>
+    <!-- Glow Header accent -->
+    <path d="M12 0 H48" stroke="#10B981" stroke-width="3" stroke-linecap="round" opacity="0.8" filter="url(#glow-light)"/>
+    
+    <!-- Icon Container -->
+    <circle cx="36" cy="38" r="20" fill="#0F172A" stroke="#10B981" stroke-width="1.5" opacity="0.8"/>
+    <!-- Trae Custom Logo (Intelligent Green 5x7 Pixel Robot Face) -->
+    <g transform="translate(20, 22)">
+      <!-- Robot Outer shell (5x7 grid, pixel block size 2.8x2.8, gap 0.7) -->
+      <!-- We draw individual blocks matching the 5x7 pixel grid robot face -->
+      <!-- Brand color: Intelligent Green #00FF87 -->
+      <!-- Row 1: x=6,9.5,13,16.5,20 (y=4) -->
+      <rect x="6" y="4" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="9.5" y="4" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="13" y="4" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="16.5" y="4" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="20" y="4" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <!-- Row 2 -->
+      <rect x="6" y="7.5" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="20" y="7.5" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <!-- Row 3 (Eyes rotated 45deg) -->
+      <rect x="6" y="11" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <g transform="translate(10.9, 12.4) rotate(45) translate(-1.4, -1.4)">
+        <rect x="0" y="0" width="2.8" height="2.8" rx="0.5" fill="#00FF87" filter="url(#glow-light)"/>
+      </g>
+      <g transform="translate(17.9, 12.4) rotate(45) translate(-1.4, -1.4)">
+        <rect x="0" y="0" width="2.8" height="2.8" rx="0.5" fill="#00FF87" filter="url(#glow-light)"/>
+      </g>
+      <rect x="20" y="11" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <!-- Row 4 -->
+      <rect x="6" y="14.5" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="20" y="14.5" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <!-- Row 5 (Mouth center) -->
+      <rect x="6" y="18" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="13" y="18" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="20" y="18" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <!-- Row 6 -->
+      <rect x="6" y="21.5" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="20" y="21.5" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <!-- Row 7 -->
+      <rect x="6" y="25" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="9.5" y="25" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="13" y="25" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="16.5" y="25" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+      <rect x="20" y="25" width="2.8" height="2.8" rx="0.5" fill="#00FF87"/>
+    </g>
+
+    <!-- Texts -->
+    <text x="68" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">Trae</text>
+    <text x="68" y="49" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#10B981">NEXT-GEN AI IDE</text>
+    
+    <!-- Description -->
+    <text x="16" y="86" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#94A3B8" font-weight="500">
+      <tspan x="16" dy="0">字节跳动自研 AI 开发环境</tspan>
+      <tspan x="16" dy="19">Intelligent Green 驱动，融合开发流</tspan>
+    </text>
+
+    <!-- Badge -->
+    <rect x="16" y="136" width="60" height="22" rx="11" fill="#10B981" fill-opacity="0.1" stroke="#10B981" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="46" y="151" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#34D399" text-anchor="middle">AI IDE</text>
+  </g>
+
+  <!-- ================= CARD 4: CODEX (x=24, y=220) ================= -->
+  <g transform="translate(24, 220)">
+    <!-- Card Base -->
+    <rect width="288" height="176" rx="16" fill="#0A0F1E" fill-opacity="0.85" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="286.5" height="174.5" rx="15.25" stroke="#00F2FE" stroke-width="1.5" opacity="0.15"/>
+    <!-- Glow Header accent -->
+    <path d="M12 0 H48" stroke="#00F2FE" stroke-width="3" stroke-linecap="round" opacity="0.8" filter="url(#glow-light)"/>
+    
+    <!-- Icon Container -->
+    <circle cx="36" cy="38" r="20" fill="#0F172A" stroke="#00F2FE" stroke-width="1.5" opacity="0.8"/>
+    <!-- Codex Custom Logo (OpenAI Spiral in Cyan) -->
+    <g transform="translate(20, 22)">
+      <path d="M16,6.5 C16.5,6.5 17,6.9 17,7.4 L17,11.1 C18,11.1 19.3,10.4 19.8,9.5 L21.7,6.2 C22,5.7 22.6,5.5 23.1,5.8 C23.6,6.1 23.8,6.7 23.5,7.2 L21.6,10.5 C21.1,11.4 21.1,12.6 21.6,13.5 L23.5,16.8 C23.8,17.3 23.6,17.9 23.1,18.2 C22.6,18.5 22,18.3 21.7,17.8 L19.8,14.5 C19.3,13.6 18,12.9 17,12.9 L17,16.6 C17,17.1 16.5,17.5 16,17.5 C15.5,17.5 15,17.1 15,16.6 L15,12.9 C14,12.9 12.7,13.6 12.2,14.5 L10.3,17.8 C10,18.3 9.4,18.5 8.9,18.2 C8.4,17.9 8.2,17.3 8.5,16.8 L10.4,13.5 C10.9,12.6 10.9,11.4 10.4,10.5 L8.5,7.2 C8.2,6.7 8.4,6.1 8.9,5.8 C9.4,5.5 10,5.7 10.3,6.2 L12.2,9.5 C12.7,10.4 14,11.1 15,11.1 L15,7.4 C15,6.9 15.5,6.5 16,6.5 Z" fill="url(#grad-codex)"/>
+    </g>
+
+    <!-- Texts -->
+    <text x="68" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">OpenAI Codex</text>
+    <text x="68" y="49" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#00F2FE">AI AUTO-CODING ENGINE</text>
+    
+    <!-- Description -->
+    <text x="16" y="86" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#94A3B8" font-weight="500">
+      <tspan x="16" dy="0">OpenAI 代码生成底座</tspan>
+      <tspan x="16" dy="19">辅助复杂逻辑编写与大规模自动化代码补全</tspan>
+    </text>
+
+    <!-- Badge -->
+    <rect x="16" y="136" width="76" height="22" rx="11" fill="#00F2FE" fill-opacity="0.1" stroke="#00F2FE" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="54" y="151" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#22D3EE" text-anchor="middle">AI Engine</text>
+  </g>
+
+  <!-- ================= CARD 5: GUANDATA BI (x=336, y=220) ================= -->
+  <g transform="translate(336, 220)">
+    <!-- Card Base -->
+    <rect width="288" height="176" rx="16" fill="#0A0F1E" fill-opacity="0.85" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="286.5" height="174.5" rx="15.25" stroke="#2563EB" stroke-width="1.5" opacity="0.15"/>
+    <!-- Glow Header accent -->
+    <path d="M12 0 H48" stroke="#2563EB" stroke-width="3" stroke-linecap="round" opacity="0.8" filter="url(#glow-light)"/>
+    
+    <!-- Icon Container -->
+    <circle cx="36" cy="38" r="20" fill="#0F172A" stroke="#2563EB" stroke-width="1.5" opacity="0.8"/>
+    <!-- Guandata BI Custom Logo (Data Ring chart + core) -->
+    <g transform="translate(20, 22)">
+      <!-- Outer segmented ring -->
+      <circle cx="16" cy="16" r="10" stroke="url(#grad-bi)" stroke-width="2" stroke-dasharray="45 15" fill="none"/>
+      <!-- Inner segmented ring -->
+      <circle cx="16" cy="16" r="6" stroke="#60A5FA" stroke-width="1.5" stroke-dasharray="25 10" fill="none"/>
+      <!-- Center core -->
+      <circle cx="16" cy="16" r="3" fill="#22D3EE" filter="url(#glow-light)"/>
+    </g>
+
+    <!-- Texts -->
+    <text x="68" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">观远 BI</text>
+    <text x="68" y="49" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#2563EB">INTELLIGENT BI PLATFORM</text>
+    
+    <!-- Description -->
+    <text x="16" y="86" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#94A3B8" font-weight="500">
+      <tspan x="16" dy="0">一站式智能数据分析与指标看板</tspan>
+      <tspan x="16" dy="19">打通业务全链路指标，实现敏捷数据决策</tspan>
+    </text>
+
+    <!-- Badge -->
+    <rect x="16" y="136" width="102" height="22" rx="11" fill="#2563EB" fill-opacity="0.1" stroke="#2563EB" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="67" y="151" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#60A5FA" text-anchor="middle">Data Analytics</text>
+  </g>
+
+  <!-- ================= CARD 6: SHADOWBOT RPA (x=648, y=220) ================= -->
+  <g transform="translate(648, 220)">
+    <!-- Card Base -->
+    <rect width="288" height="176" rx="16" fill="#0A0F1E" fill-opacity="0.85" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="286.5" height="174.5" rx="15.25" stroke="#7C3AED" stroke-width="1.5" opacity="0.15"/>
+    <!-- Glow Header accent -->
+    <path d="M12 0 H48" stroke="#7C3AED" stroke-width="3" stroke-linecap="round" opacity="0.8" filter="url(#glow-light)"/>
+    
+    <!-- Icon Container -->
+    <circle cx="36" cy="38" r="20" fill="#0F172A" stroke="#7C3AED" stroke-width="1.5" opacity="0.8"/>
+    <!-- ShadowBot RPA Custom Logo (Origami Butterfly style) -->
+    <g transform="translate(20, 22)">
+      <!-- Left upper wing -->
+      <path d="M 16 16 L 6 9 L 11 18 Z" fill="url(#grad-rpa)"/>
+      <!-- Left lower wing -->
+      <path d="M 16 16 L 11 18 L 12 24 Z" fill="#8B5CF6"/>
+      <!-- Right upper wing -->
+      <path d="M 16 16 L 26 9 L 21 18 Z" fill="url(#grad-rpa)"/>
+      <!-- Right lower wing -->
+      <path d="M 16 16 L 21 18 L 20 24 Z" fill="#6366F1"/>
+      <!-- Head center dot -->
+      <circle cx="16" cy="12" r="1.5" fill="#C4B5FD" filter="url(#glow-light)"/>
+    </g>
+
+    <!-- Texts -->
+    <text x="68" y="34" font-family="Inter, system-ui, sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">影刀 RPA</text>
+    <text x="68" y="49" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="600" fill="#7C3AED">PROCESS AUTOMATION</text>
+    
+    <!-- Description -->
+    <text x="16" y="86" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#94A3B8" font-weight="500">
+      <tspan x="16" dy="0">高频重复性操作流程自动化</tspan>
+      <tspan x="16" dy="19">消除跨系统业务割裂，释放机械性劳动</tspan>
+    </text>
+
+    <!-- Badge -->
+    <rect x="16" y="136" width="102" height="22" rx="11" fill="#7C3AED" fill-opacity="0.1" stroke="#7C3AED" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="67" y="151" font-family="Inter, system-ui, sans-serif" font-size="11" font-weight="700" fill="#A78BFA" text-anchor="middle">RPA Automation</text>
+  </g>
+</svg>

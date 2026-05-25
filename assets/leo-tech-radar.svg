@@ -29,11 +29,11 @@
   <text x="480" y="201" text-anchor="middle" fill="#67E8F9" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700">AI WORKFLOW BUILDER</text>
   <g font-family="Inter, Arial, sans-serif" font-weight="700">
     <rect x="72" y="94" width="214" height="72" rx="16" fill="#0B1120" stroke="#22D3EE" opacity="0.95"/>
-    <text x="96" y="126" fill="#E0F2FE" font-size="20">Vibecoding</text>
-    <text x="96" y="150" fill="#67E8F9" font-size="13">Prompt → Code → Iterate</text>
+    <text x="96" y="126" fill="#E0F2FE" font-size="20">AI Agent</text>
+    <text x="96" y="150" fill="#67E8F9" font-size="13">Antigravity / Claude Code</text>
     <rect x="674" y="94" width="214" height="72" rx="16" fill="#0B1120" stroke="#7C3AED" opacity="0.95"/>
-    <text x="698" y="126" fill="#F5F3FF" font-size="20">Codex / Claude Code</text>
-    <text x="698" y="150" fill="#C4B5FD" font-size="13">Agentic development loop</text>
+    <text x="698" y="126" fill="#F5F3FF" font-size="20">AI IDE &amp; Codex</text>
+    <text x="698" y="150" fill="#C4B5FD" font-size="13">Trae / OpenAI Codex</text>
     <rect x="72" y="206" width="214" height="72" rx="16" fill="#0B1120" stroke="#06B6D4" opacity="0.95"/>
     <text x="96" y="238" fill="#E0F2FE" font-size="20">观远 BI</text>
     <text x="96" y="262" fill="#67E8F9" font-size="13">Data insight &amp; dashboard</text>
@@ -53,5 +53,5 @@
     <circle cx="392" cy="242" r="4"/>
     <circle cx="568" cy="242" r="4"/>
   </g>
-  <text x="480" y="322" text-anchor="middle" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">AI coding · BI analytics · RPA automation · futuristic frontend</text>
+  <text x="480" y="322" text-anchor="middle" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">AI Agents · Intelligent IDEs · BI Analytics · RPA Automation · Futuristic Frontends</text>
 </svg>
